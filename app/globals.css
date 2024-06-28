@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper 
+{
+    width: 1300px;
+    height: 700px;
+}
